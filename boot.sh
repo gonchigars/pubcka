@@ -1,2 +1,2 @@
 sudo -i
-bash <(curl -s https://raw.githubusercontent.com/killer-sh/cks-course-environment/master/cluster-setup/latest/install_master.sh)
+bash <(curl -s https://https://raw.githubusercontent.com/gonchigars/pubcka/main/master.sh)
